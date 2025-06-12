@@ -1,18 +1,21 @@
 
-# Use the official Python Alpine image
 FROM python:3.13-alpine
 
-# Set custom working directory
+# Set working directory
 WORKDIR /myapp
 
-# Copy all files into /myapp
-COPY . .
+# Copy all project files into container
+COPY . /myapp
 
-# Install dependencies from app/requirements.txt
-RUN pip install --no-cache-dir -r app/requirements.txt
+# Debug: list all files and folders to verify paths
+RUN ls -R /myapp
 
-# Expose the port your app runs on
+# Install requirements from correct path
+RUN pip install --no-cache-dir -r /myapp/app/requirements.txt
+
+# Expose app port
 EXPOSE 5000
 
-# Run your application
-CMD ["python", "app.py"]
+# Run your app
+CMD ["python", "app/app.py"]
+
