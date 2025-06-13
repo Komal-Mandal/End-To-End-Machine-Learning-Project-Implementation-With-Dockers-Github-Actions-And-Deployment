@@ -81,7 +81,6 @@ You can run this project in two ways:
 
 1. Clone the repository
 
-```bash
 git clone https://github.com/Komal-Mandal/End-To-End-Machine-Learning-Project-Implementation-With-Dockers-Github-Actions-And-Deployment
 
 2. Create and activate a virtual environment
