@@ -156,12 +156,6 @@ render.yaml for deployment config
 .github/workflows/ci.yml for CI/CD automation
 
 
-# 📦 GitHub Repository
-
-Explore the full code and project structure here:
-
-👉https://github.com/Komal-Mandal/End-To-End-Machine-Learning-Project-Implementation-With-Dockers-Github-Actions-And-Deployment
-
 # 🔗 Live Demo
 
 Check out the working app here:
