@@ -17,7 +17,7 @@ company = st.selectbox("Select Company", companies)
 model = st.selectbox("Select Model", company_to_models.get(company, []))
 year = st.selectbox("Year of Purchase", years)
 fuel = st.selectbox("Fuel Type", fuel_types)
-
+kilo_driven = st.number_input("Kilometers Driven", min_value=0)
 if st.button("Predict Price"):
     # Dummy logic
     price = 1000000 - (2024 - year) * 20000 - kilo_driven * 0.5
