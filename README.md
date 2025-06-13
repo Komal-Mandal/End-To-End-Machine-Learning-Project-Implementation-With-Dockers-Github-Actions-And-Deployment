@@ -49,7 +49,7 @@ So apart from building a production-ready model using scikit-learn, I also creat
 
 
 
-# 📁 Project Structure (Simplified)
+# 📁 Project Structure 
 
 - app.py – Main Streamlit app for user interaction and prediction
 
