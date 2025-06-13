@@ -85,13 +85,17 @@ git clone https://github.com/Komal-Mandal/End-To-End-Machine-Learning-Project-Im
 
 2. Create and activate a virtual environment
 
-"C:\Users\Komal\Pictures\Screenshots\Screenshot 2025-06-13 112812.png"
+![Screenshot 2025-06-13 112812](https://github.com/user-attachments/assets/48a018f4-e730-4e17-bc6c-95ae3bdf3faa)
 
 3.Install dependencies
-"C:\Users\Komal\Pictures\Screenshots\Screenshot 2025-06-13 110931.png"
+
+![Screenshot 2025-06-13 110931](https://github.com/user-attachments/assets/0c332a2d-a64c-48b0-b05b-03357cbd9167)
+
 
 4.Run the app
-"C:\Users\Komal\Pictures\Screenshots\Screenshot 2025-06-13 110957.png"
+
+![Screenshot 2025-06-13 110957](https://github.com/user-attachments/assets/1ff6acd0-3d2d-4ead-9f44-3b0ef7bd3789)
+
 
 
 ## 🐳 Option 2: Run Using Docker
@@ -99,13 +103,18 @@ git clone https://github.com/Komal-Mandal/End-To-End-Machine-Learning-Project-Im
 Step 1: Install Docker Engine
 
 Step 2: Clone the Repository
-"C:\Users\Komal\Pictures\Screenshots\Screenshot 2025-06-13 111027.png"
+
+![Screenshot 2025-06-13 111027](https://github.com/user-attachments/assets/fed5efbd-dc90-4d36-928e-afa0a1d03ed5)
+
 
 Step 3: Build the Docker ImageStep 
-"C:\Users\Komal\Pictures\Screenshots\Screenshot 2025-06-13 111048.png"
+
+![Screenshot 2025-06-13 111048](https://github.com/user-attachments/assets/dd1af102-f77f-47d1-96b0-7ba6c4210653)
+
 
 Step 4: Run the Container
-"C:\Users\Komal\Pictures\Screenshots\Screenshot 2025-06-13 111108.png"
+
+![Screenshot 2025-06-13 111108](https://github.com/user-attachments/assets/e6da0c1f-e02a-4c40-8f8a-36869b0f61dd)
 
 
 
@@ -150,11 +159,13 @@ render.yaml for deployment config
 # 📦 GitHub Repository
 
 Explore the full code and project structure here:
+
 👉https://github.com/Komal-Mandal/End-To-End-Machine-Learning-Project-Implementation-With-Dockers-Github-Actions-And-Deployment
 
 # 🔗 Live Demo
 
 Check out the working app here:
+
 👉 https://end-to-end-machine-learning-project-g26h.onrender.com/
 
 
