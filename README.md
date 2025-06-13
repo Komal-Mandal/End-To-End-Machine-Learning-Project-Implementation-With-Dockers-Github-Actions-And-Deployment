@@ -1,9 +1,7 @@
 # End-To-End-Machine-Learning-Project-Implementation-With-Dockers-Github-Actions-And-Deployment
 
 
-https://end-to-end-machine-learning-project-g26h.onrender.com/
-
-# 🚗 Car Price Prediction App
+## 🚗 Car Price Prediction App
 
 This project is a complete machine learning web application that predicts the price of a car based on user input such as brand, model, year, fuel type, and kilometers driven. The app uses Linear Regression from scikit-learn for real-time predictions and includes a from-scratch implementation of the same algorithm to understand its internal workings.
 
@@ -71,11 +69,9 @@ So apart from building a production-ready model using scikit-learn, I also creat
 
 You can run this project in two ways:
 
----
+# Option 1: Run Locally
 
-### ✅ Option 1: Run Locally
-
-#### Prerequisites:
+## Prerequisites:
 
 - Python 3.7 or above
 - Git installed
@@ -93,9 +89,10 @@ git clone https://github.com/Komal-Mandal/End-To-End-Machine-Learning-Project-Im
 c:\Users\Komal\Pictures\Screenshots\Screenshot 2025-06-13 105107.png
 
 3.Install dependencies
-
+c:\Users\Komal\Pictures\Screenshots\Screenshot 2025-06-13 105241.png
 
 4.Run the app
+c:\Users\Komal\Pictures\Screenshots\Screenshot 2025-06-13 110957.png
 
 
 ## 🐳 Option 2: Run Using Docker
@@ -103,11 +100,13 @@ c:\Users\Komal\Pictures\Screenshots\Screenshot 2025-06-13 105107.png
 Step 1: Install Docker Engine
 
 Step 2: Clone the Repository
+c:\Users\Komal\Pictures\Screenshots\Screenshot 2025-06-13 111027.png
 
 Step 3: Build the Docker ImageStep 
-
+c:\Users\Komal\Pictures\Screenshots\Screenshot 2025-06-13 111048.png
 
 Step 4: Run the Container
+c:\Users\Komal\Pictures\Screenshots\Screenshot 2025-06-13 111108.png
 
 
 
@@ -149,11 +148,11 @@ render.yaml for deployment config
 .github/workflows/ci.yml for CI/CD automation
 
 
-📦 GitHub Repository
+# 📦 GitHub Repository
 Explore the full code and project structure here:
 👉https://github.com/Komal-Mandal/End-To-End-Machine-Learning-Project-Implementation-With-Dockers-Github-Actions-And-Deployment
 
-🔗 Live Demo
+# 🔗 Live Demo
 Check out the working app here:
 👉 https://end-to-end-machine-learning-project-g26h.onrender.com/
 
