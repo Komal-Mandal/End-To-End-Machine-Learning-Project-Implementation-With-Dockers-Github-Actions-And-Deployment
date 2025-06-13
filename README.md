@@ -93,23 +93,22 @@ git clone https://github.com/Komal-Mandal/End-To-End-Machine-Learning-Project-Im
 c:\Users\Komal\Pictures\Screenshots\Screenshot 2025-06-13 105107.png
 
 3.Install dependencies
-![alt text](image.png)
+
 
 4.Run the app
-![alt text](image-1.png)
+
 
 ## 🐳 Option 2: Run Using Docker
 
 Step 1: Install Docker Engine
 
 Step 2: Clone the Repository
-![alt text](image-2.png)
 
 Step 3: Build the Docker ImageStep 
-![alt text](image-3.png)
+
 
 Step 4: Run the Container
-![alt text](image-4.png)
+
 
 
 # 📘 Learning Linear Regression from Scratch
